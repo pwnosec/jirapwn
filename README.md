@@ -83,3 +83,13 @@ Untuk informasi lebih lanjut mengenai CVE yang digunakan dalam pemindaian ini, A
 - CVE-2019-8442
 - CVE-2019-8449
 
+
+<p align="center">
+  <a href="[https://star-history.com/#pwnosec/jira-vuln-scanner&Date](https://avatars.githubusercontent.com/u/29165227?v=4)">
+   <picture>
+     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=pwnosec/jira-vuln-scanner&type=Date&theme=dark" />
+     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=pwnosec/jira-vuln-scanner&type=Date" />
+     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=pwnosec/jira-vuln-scanner&type=Date" />
+   </picture>
+  </a>
+</p>
